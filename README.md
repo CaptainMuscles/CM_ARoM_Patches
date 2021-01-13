@@ -4,6 +4,8 @@ Some patches for A RimWorld of Magic
 ## Configurable Purify
 Patches/ARimworldOfMagic_Configurable_Purify.xml replaces the existing Priest > Purify ability with a configurable version
 
+**Note that the parameters included serve to reproduce the exact behavior of the purity spell at the time of this patches creation**
+
 Hediffs to purify can be located within the `<healableHediffs>` tag. There you will find the existing healables as examples:
 ```
 <li>
